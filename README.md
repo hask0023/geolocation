@@ -3,7 +3,7 @@
 
 ### Description
 
-This fantastic little site will allow you to see your current location using the [google static maps api](https://developers.google.com/maps/documentation/staticmaps/ "Google static maps"). 
+This fantastic little code will allow you to see your current location using the [google static maps api](https://developers.google.com/maps/documentation/staticmaps/ "Google static maps"). 
 
 
 ### Usage
